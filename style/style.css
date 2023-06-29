@@ -1,0 +1,33 @@
+.rounded {
+    max-width: 200px;
+    max-width: 200px;
+
+
+}
+
+.d-inline-flex {
+    margin-right: 10px;
+}
+
+.image-hover {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.image-hover:hover {
+    opacity: 0.9;
+    cursor: pointer;
+    margin-right: 10px;
+    transform: scale(1.1);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 1);
+
+}
+
+
+img {
+    margin: 10px;
+
+}
+
+ul{
+    list-style-type: none;
+}
